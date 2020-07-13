@@ -22,6 +22,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 
   <p align="center">
     <a href="https://twitter.com/imdhruv_28" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter-fill.svg"></a>
+    <a href="https://twitter.com/imdhruv_28" alt="Twitter"><i class="fa fa-facebook"></i></a>
     <a href="https://www.linkedin.com/in/dhruv-prajapati-151b88176/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin-fill.svg"></a>
     <a href="mailto:dpdhruvprajapati@gmail.com" alt="Contact me"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/mail-fill.svg"></a>
     <a href="https://imdhruv99.github.io" alt="My site"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/external-link-line.svg"></a>

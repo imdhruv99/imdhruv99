@@ -1,4 +1,4 @@
-<img src='photo.jpg'>
+<img src='photo.jpg' alt="Hey Folks!!">
 
 ### Hey, It's Dhruv Prajapati here
 I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.

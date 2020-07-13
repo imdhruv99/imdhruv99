@@ -18,7 +18,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
     <a href="https://twitter.com/imdhruv_28" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter-fill.svg"></a>

@@ -1,4 +1,4 @@
-![Hey Devs!!](photo.jpg?raw=true)
+<img src="https://github.com/imdhruv99/imdhruv99/blob/master/photo.jpg">
 
 ### Hey, It's Dhruv Prajapati here
 I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.

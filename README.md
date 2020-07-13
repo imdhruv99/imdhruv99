@@ -17,7 +17,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
   
   - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Romance, Sci-Fi, History books.
   
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job.
+  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
 </details>

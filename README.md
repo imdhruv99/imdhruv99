@@ -29,4 +29,4 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
   
 </p>
 
-<img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/bottom.svg" alt="bottom">
+<img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/bottom.svg" alt="bottom" style="background: linear-gradient(to right, #4ac29a, #bdfff3);">

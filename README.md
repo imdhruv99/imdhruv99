@@ -26,6 +26,10 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
     <a href="mailto:dpdhruvprajapati@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://imdhruv99.github.io" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
+  
+  <p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=imdhruv99.visitor-badge">
+  </p>
 </p>
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">

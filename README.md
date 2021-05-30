@@ -41,23 +41,18 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
   </p> -->
 
   <p align="center">
-
     <a href="https://twitter.com/imdhruv_28" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
     </a>
-
     <a href="https://www.linkedin.com/in/dhruv-prajapati-151b88176/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
     </a>
-
     <a href="https://www.instagram.com/imdhruv_28" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
     </a>
-
     <a href="https://imdhruv99.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
     </a>
-    
   </p>
   
 </p>

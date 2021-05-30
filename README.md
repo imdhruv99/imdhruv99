@@ -27,7 +27,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://twitter.com/imdhruv_28" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
     <a href="https://www.linkedin.com/in/dhruv-prajapati-151b88176/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
     <a href="https://www.instagram.com/imdhruv_28" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
@@ -38,6 +38,26 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
     <a href="https://medium.com/@dpdhruvprajapati" alt="Medium"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/medium.png"></a>
     <a href="https://dev.to/imdhruv99" alt="Dev"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/dev.png"></a>
 
+  </p> -->
+
+  <p align="center">
+
+    <a href="https://twitter.com/imdhruv_28" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+    </a>
+
+    <a href="https://www.linkedin.com/in/dhruv-prajapati-151b88176/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+    </a>
+
+    <a href="https://www.instagram.com/imdhruv_28" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+    </a>
+
+    <a href="https://imdhruv99.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+    </a>
+    
   </p>
   
 </p>

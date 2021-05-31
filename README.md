@@ -26,7 +26,7 @@ class KnowMe:
       "Databases": ["MySql", "SQLite3", "MongoDB"],
       "Version_Control_System": ["GitHub", "GitLab", "BitBucket"],
       "Container_Technology": ['Docker'],
-      "Orchestration_Technology": ['Kubernetes"],
+      "Orchestration_Technology": ["Kubernetes"],
       "Infrastructure_As_Code": ["Terraform", "AWS CloudFormation"],
       "Configuration_Management": ["Ansible"],
       "CICD_Tool": ["Jenkins"],
@@ -34,7 +34,7 @@ class KnowMe:
       "Infrastructure_Monitoring": ["Prometheus", "Grafana"],
       "Cloud_Providers": ["AWS", "GCP"]
     }
-
+    
     return ProgrammingLanguages, Technologies
   
   def goalForFuture():
@@ -46,7 +46,6 @@ class KnowMe:
 
 
   CurrentFocus = "Developing full stacks projects on Machine Learning and Deep Learning Technologies."
-
 
 ```
 

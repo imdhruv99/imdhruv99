@@ -60,7 +60,7 @@ class KnowMe:
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=imdhruv99&theme=gotham&hide_border=true" width = 400>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+<p align = "center"><a href="https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">Trophies</a>(https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)<p>
 
 <hr>
 

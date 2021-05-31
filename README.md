@@ -25,7 +25,7 @@ class KnowMe:
       "Deep_Learning_Libraries": ["Tensorflow", "Keras"],
       "Databases": ["MySql", "SQLite3", "MongoDB"],
       "Version_Control_System": ["GitHub", "GitLab", "BitBucket"],
-      "Container_Technology": ['Docker'],
+      "Container_Technology": ["Docker"],
       "Orchestration_Technology": ["Kubernetes"],
       "Infrastructure_As_Code": ["Terraform", "AWS CloudFormation"],
       "Configuration_Management": ["Ansible"],
@@ -34,7 +34,7 @@ class KnowMe:
       "Infrastructure_Monitoring": ["Prometheus", "Grafana"],
       "Cloud_Providers": ["AWS", "GCP"]
     }
-    
+
     return ProgrammingLanguages, Technologies
   
   def goalForFuture():

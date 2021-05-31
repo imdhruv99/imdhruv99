@@ -1,8 +1,6 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there! I'm Dhruv Prajapati</h2>
 
-<h5>You can call me DP, if you like.</h5>
-
-
+<h4>You can call me DP, if you like.</h4>
 
 ```python
 class KnowMe:
@@ -35,7 +33,9 @@ class KnowMe:
       "Cloud_Providers": ["AWS", "GCP"]
     }
 
-    return ProgrammingLanguages, Technologies
+    Architecture = ['MVC', 'Serverless', 'Microservices']
+
+    return ProgrammingLanguages, Technologies, Architecture
   
   def Ambitions():
     MachineLearning()
@@ -49,6 +49,7 @@ class KnowMe:
     hobbies = [
       "Astro-Physics", "Dragon Ball", "Sci-Fi Movies", "Quantum Technologies"
     ]
+    return hobbies
 
   CurrentFocus = "Developing full stacks projects on Machine Learning and Deep Learning Technologies."
 
@@ -58,6 +59,8 @@ class KnowMe:
   <img src = "https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true&theme=gotham" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=imdhruv99&theme=gotham&hide_border=true" width = 400>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 <hr>
 

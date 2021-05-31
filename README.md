@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there! I'm Dhruv Prajapati</h2>
 
-<p align="center">You can call me DP, if you like.</p>
+<h5>You can call me DP, if you like.</h5>
 
 
 
@@ -8,10 +8,10 @@
 class KnowMe:
   
   User = "Dhruv Prajapati"
-  Current_Education = "Goventment Engineering College, Modasa"
+  College = "Goventment Engineering College, Modasa"
   Degree = "Bachelor of Engineering"
 
-  def technicalSkills():
+  def Technical_Skills():
   
     ProgrammingLanguages = ["Python", "Go", "Java", "Rust", "C++", "Nodejs", "R"]
 
@@ -37,13 +37,18 @@ class KnowMe:
 
     return ProgrammingLanguages, Technologies
   
-  def goalForFuture():
+  def Ambitions():
     MachineLearning()
     DeepLearning()
     MLOps()
     DevOps()
     TravelTheWorld()
+    # Assume 50 more here :-)
 
+  def Hobbies():
+    hobbies = [
+      "Astro-Physics", "Dragon Ball", "Sci-Fi Movies", "Quantum Technologies"
+    ]
 
   CurrentFocus = "Developing full stacks projects on Machine Learning and Deep Learning Technologies."
 

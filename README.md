@@ -1,5 +1,9 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there! I'm Dhruv Prajapati</h2>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true&theme=dark" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=imdhruv99&theme=dark&hide_border=true" width = 400>
+</p>
 
 
   <p align="center">

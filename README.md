@@ -68,7 +68,7 @@ class KnowMe:
     <a href="https://twitter.com/imdhruv_28" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
     </a>
-    <a href="https://www.linkedin.com/in/dhruv-prajapati-151b88176/" target="_blank">
+    <a href="https://www.linkedin.com/in/imdhruv99/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
     </a>
     <a href="https://www.instagram.com/imdhruv_28" target="_blank">
